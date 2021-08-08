@@ -1,5 +1,5 @@
 
-# USAGE examples
+# Selecty.ru Tests
 
 ### For run remote tests need fill remote.properties or to pass value:
 
